@@ -6,3 +6,4 @@ To do
 3. Interest Rate Models
 4. Volatility models
 5. Pairs Trading Models
+6. Hidden Markov Models
